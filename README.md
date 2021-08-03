@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielGomesdev-back
-- 👀 I’m interested in development mobile and web in back end
+- 👀 I’m interested in development mobile and web
 - 🌱 I’m currently learning react-native and varied frameworks and web apis
 - 💞️ I’m looking to collaborate and learn in any company or project
 - 📫 How to reach me GabrielGomesdevback@gmail.com
